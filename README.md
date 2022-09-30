@@ -16,7 +16,7 @@
 - [📸 Instagram][instagram]
 
 
-### 📕 Latest Blog Posts
+### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 
@@ -26,16 +26,17 @@
 - [5 cosas que deberías saber sobre ReactJS](https://voib.jesusbossa.dev/article/5_cosas_que_deber%C3%ADas_saber_sobre_ReactJS)
 <!-- BLOG-POST-LIST:END -->
 
-### Languages and Tools:
+### Metrics:
 
 <a href="https://jesusbossa.dev/">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=makinox&count_private=true&show_icons=true" />
-</a>
-<a href="[https://github.com/anuraghazra/convoychat](https://jesusbossa.dev/)">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=makinox&langs_count=8&layout=compact&hide=javascript" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=makinox&count_private=true&show_icons=true" />
 </a>
 
-<br />
+---
+
+<a href="[https://github.com/anuraghazra/convoychat](https://jesusbossa.dev/)">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=makinox&langs_count=8&layout=compact&hide=javascript" />
+</a>
 
 [website]: https://jesusbossa.dev/
 [twitter]: https://twitter.com/jesMakinox
