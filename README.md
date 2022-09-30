@@ -28,13 +28,13 @@
 
 ### Metrics:
 
-<a href="https://jesusbossa.dev/">
+<a href="https://jesusbossa.dev">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=makinox&count_private=true&show_icons=true" />
 </a>
 
 ---
 
-<a href="[https://github.com/anuraghazra/convoychat](https://jesusbossa.dev/)">
+<a href="https://jesusbossa.dev">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=makinox&langs_count=8&layout=compact&hide=javascript" />
 </a>
 
