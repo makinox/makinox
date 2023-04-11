@@ -26,18 +26,6 @@
 - [5 cosas que deberías saber sobre ReactJS](https://voib.jesusbossa.dev/article/5_cosas_que_deber%C3%ADas_saber_sobre_ReactJS)
 <!-- BLOG-POST-LIST:END -->
 
-### Metrics:
-
-<a href="https://jesusbossa.dev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=makinox&count_private=true&show_icons=true" />
-</a>
-
----
-
-<a href="https://jesusbossa.dev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=makinox&langs_count=8&layout=compact&hide=javascript" />
-</a>
-
 [website]: https://jesusbossa.dev/
 [twitter]: https://twitter.com/jesMakinox
 [instagram]: https://www.instagram.com/jesus.david7
