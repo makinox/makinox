@@ -4,8 +4,9 @@
 
 - 🔭 I’m currently working in [Eva center](https://evacenter.com/) <img alt="jesusbossa.dev" width="13px" src="https://evacenter.com/wp-content/uploads/2021/08/cropped-Group-46134-32x32.png" />
 - 🌱 I’m currently learning everything
+- I'm a co-leader of two tech communities [BarranquillaJs](https://barranquillajs.org/) and [CaribeDev](https://caribedev.org/)
 - 👯 I’m looking to collaborate with other creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to communities
 - ⚡ Fun fact: I love to write and play videogames
 
 ### Connect with me:
