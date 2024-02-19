@@ -2,7 +2,7 @@
 
 ## I'm a Friend, Developer, and Teacher!
 
-- 🔭 I’m currently working in [Eva center](https://evacenter.com/) <img alt="jesusbossa.dev" width="13px" src="https://evacenter.com/wp-content/uploads/2021/08/cropped-Group-46134-32x32.png" />
+- 🔭 I’m currently working in [Eden medical](https://evacenter.com/) <img alt="jesusbossa.dev" width="13px" src="https://assets-global.website-files.com/64778885f71ce3a07213e092/64b5e5896c8a2733e0702955_Favicon%20180x180%20(2).jpg" />
 - 🌱 I’m currently learning everything
 - 🌆 I'm a co-leader of two tech communities [BarranquillaJs](https://barranquillajs.org/) and [CaribeDev](https://caribedev.org/)
 - 👯 I’m looking to collaborate with other creators
