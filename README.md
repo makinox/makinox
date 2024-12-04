@@ -29,7 +29,7 @@
 
 [website]: https://jesusbossa.dev/
 [twitter]: https://twitter.com/jesMakinox
-[instagram]: https://www.instagram.com/jesus.david7
+[instagram]: https://www.instagram.com/jesusbossa.dev
 [linkedin]: https://www.linkedin.com/in/makinox/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
